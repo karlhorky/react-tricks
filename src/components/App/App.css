@@ -1,7 +1,10 @@
 .App {
-  text-align: center;
   width: 90%;
   margin: 0 auto;
+}
+
+.AppTitle {
+  text-align: center;
 }
 
 @media (min-width: 720px) {

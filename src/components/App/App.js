@@ -1,10 +1,10 @@
 import React from 'react';
 import styles from './App.css';
-import IncrementalSpinner from '../IncrementalSpinner/IncrementalSpinner';
+import IncrementalSpinnerDemo from '../IncrementalSpinnerDemo/IncrementalSpinnerDemo';
 
 export default () =>
   <div className={styles.App}>
-    <h1>React tricks</h1>
+    <h1 className={styles.AppTitle}>React tricks</h1>
 
     <h2>
       &lt;IncrementalSpinner /&gt;
@@ -14,11 +14,9 @@ export default () =>
       A spinner component that finishes its animation cycle at degree increments.
     </p>
 
-    <IncrementalSpinner />
+    <IncrementalSpinnerDemo />
 
     <p>
-      For instance, you may want your spinner to stop animating only once it has reached the next 90 degree increment.
+      For instance, you may want your spinner to stop animating only once it has reached the next 360 degree increment.
     </p>
-
-    <IncrementalSpinner />
   </div>;
