@@ -1,9 +1,9 @@
 import React from 'react';
-import './App.css';
+import styles from './App.css';
 import IncrementalSpinner from '../IncrementalSpinner/IncrementalSpinner';
 
 export default () =>
-  <div>
+  <div className={styles.App}>
     <h1>React tricks</h1>
 
     <h2>
