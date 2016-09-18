@@ -1,7 +1,8 @@
 {
   "name": "react-tricks",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "homepage": "https://work.karlhorky.com/react-tricks",
   "devDependencies": {
     "autoprefixer": "6.4.1",
     "babel-core": "6.14.0",
