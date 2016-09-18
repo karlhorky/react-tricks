@@ -1,1 +1,1 @@
-# [react-tricks](https://work.karlhorky.com/react-tricks)
+# [React tricks](https://work.karlhorky.com/react-tricks)
