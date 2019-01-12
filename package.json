@@ -51,7 +51,6 @@
     "style-loader": "0.13.1",
     "url-loader": "0.5.7",
     "webpack": "1.13.2",
-    "webpack-dev-server": "1.16.1",
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
@@ -60,7 +59,6 @@
     "react-state-animation": "^0.1.0"
   },
   "scripts": {
-    "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "jest --watch --env=jsdom"
   },
