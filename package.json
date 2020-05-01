@@ -21,7 +21,7 @@
     "chalk": "1.1.3",
     "connect-history-api-fallback": "1.3.0",
     "cross-spawn": "4.0.0",
-    "css-loader": "0.24.0",
+    "css-loader": "3.5.3",
     "detect-port": "1.0.0",
     "eslint": "4.18.2",
     "eslint-loader": "1.5.0",
