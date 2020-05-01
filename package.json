@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://work.karlhorky.com/react-tricks",
   "devDependencies": {
-    "autoprefixer": "6.4.1",
+    "autoprefixer": "9.7.6",
     "babel-core": "6.14.0",
     "babel-eslint": "6.1.2",
     "babel-jest": "15.0.0",
