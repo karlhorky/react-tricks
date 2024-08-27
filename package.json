@@ -50,7 +50,7 @@
     "strip-ansi": "3.0.1",
     "style-loader": "0.23.1",
     "url-loader": "0.6.2",
-    "webpack": "1.15.0",
+    "webpack": "5.94.0",
     "whatwg-fetch": "1.1.1"
   },
   "dependencies": {
